@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-- 🌱 I currently enjoy participating in [Kaggle competition](https://github.com/seita-f/Kaggle-Rules-Classification).
+- 🌱 I currently enjoy participating in [Kaggle](https://www.kaggle.com/seitaf).
 - 📫 How to reach me: seitafujiwara@gmail.com
 
 <!-- 4. GitHub usernameを変更, 2箇所 -->
