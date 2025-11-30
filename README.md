@@ -1,8 +1,10 @@
 ## Hi there 👋
-
-- 🌱 I currently enjoy participating in [Kaggle](https://www.kaggle.com/seitaf).
 - 📫 How to reach me: seitafujiwara@gmail.com
 
+## Kaggle
+- [Mice Social Action Recognition](https://github.com/seita-f/Kaggle-Mice-Social-Action-Recognition)
+- [Kaggle-Rules-Classification Public](https://github.com/seita-f/Kaggle-Rules-Classification)
+  
 <!-- 4. GitHub usernameを変更, 2箇所 -->
 <!-- ライトモート：theme=light, ダークモート：theme=vue-dark  -->
 ## 🏃‍♀️ Activities
