@@ -2,6 +2,7 @@
 - 📫 How to reach me: seitafujiwara@gmail.com
 
 ## Kaggle
+I join Kaggle comepetiton from time to time! <br>
 - [Mice Social Action Recognition](https://github.com/seita-f/Kaggle-Mice-Social-Action-Recognition)
 - [Kaggle-Rules-Classification](https://github.com/seita-f/Kaggle-Rules-Classification)
   
